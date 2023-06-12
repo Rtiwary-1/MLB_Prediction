@@ -25,7 +25,7 @@ The final model was able to outperform the Vegas odds-makers with statistical si
 ### Simulated Betting Performance
 Below is a visualization of a simulated betting account performance over the out-of-sample data starting with $1,000.
 
-![Betting Results](https://github.com/Rtiwary-1/MLB_Prediction/blob/master/Betting%20Results.JPG)
+![Betting Results](https://github.com/Rtiwary-1/MLB_Prediction/blob/main/Betting%20Results.JPG)
 
 # Conclusions:
 -I was able to create a model that predicts MLB games more accurately and more profitably than the Vegas odds in a statistically significant way. I did this by querying data from several online baseball databases and then optimizing several different classification models, before combining them to vote on the outcome of each game.

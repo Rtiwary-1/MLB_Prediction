@@ -10,6 +10,7 @@ Please see the notebook titled "Summary_Start_Here" for a detailed road map thro
 
 ### Process Overview
 The data for this project was sourced from MLB Advanced Media's API, baseball-reference.com and sportsbookreviewonline.com and then pre-processed into a useful form.  Four classification models were then created and optimized, which then used a voting procedure to make a final prediction.
+
 ![Diagram](https://github.com/Rtiwary-1/MLB_Prediction/blob/main/MLB%20Diagram.JPG)
 
 ### Benchmark to Outperform
